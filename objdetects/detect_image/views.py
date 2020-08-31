@@ -93,7 +93,7 @@ def yolo_detect(url):
 
 
     print ("Count : ",count)
-    # cv2.imshow("Image", img)
-    # cv2.waitKey(0)
-    # cv2.destroyAllWindows()
+    cv2.imshow("Image", img)
+    cv2.waitKey(0)
+    cv2.destroyAllWindows()
     return objects, count
