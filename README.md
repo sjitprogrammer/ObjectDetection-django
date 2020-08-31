@@ -7,3 +7,7 @@ http://127.0.0.1:8000/api/detect/image?image_url=https://www.driving.co.uk/s3/st
 Output :<br>
 
 {"success": true, "objects": ["car"], "count": 1}
+
+<br>
+<img src="https://github.com/sjitprogrammer/ObjectDetection-django/blob/master/outpuy.PNG">
+<br>
