@@ -11,3 +11,15 @@ Output :<br>
 <br>
 <img src="https://github.com/sjitprogrammer/ObjectDetection-django/blob/master/outpuy.PNG">
 <br>
+
+
+Or
+<br>
+
+Detect with camera stream
+
+http://localhost:8000/api/detect/
+
+<br>
+<img src="https://github.com/sjitprogrammer/ObjectDetection-django/blob/master/car.png">
+<br>
